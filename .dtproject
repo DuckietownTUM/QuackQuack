@@ -1,0 +1,5 @@
+TYPE=generic
+TYPE_VERSION=1
+NAME=duckiebot-lane-following
+DESCRIPTION=lane following project
+VERSION=1.0
